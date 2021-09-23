@@ -1,0 +1,11 @@
+name: BookGUI
+version: 1.0
+author: ItsKazos
+main: me.itskazos.bookgui.Main
+description: Book GUI experiment
+
+commands:
+    book:
+        description: Opens book GUI
+    reloadconfig:
+        description: Reloads the config
